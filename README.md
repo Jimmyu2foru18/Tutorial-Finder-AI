@@ -54,15 +54,3 @@ The project will follow a phased development approach as outlined in the roadmap
 ## Getting Started
 
 This repository currently contains planning documentation only. Development will begin according to the phases outlined in the project roadmap.
-
-## Contributing
-
-Contribution guidelines will be established once development begins.
-
-## License
-
-License information will be added prior to development.
-
----
-
-*This project is currently in the planning phase. All documentation is subject to revision as the project evolves.*
