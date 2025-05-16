@@ -1,0 +1,65 @@
+/* Global styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+  color: #333333;
+}
+
+code {
+  font-family: 'Fira Code', monospace;
+}
+
+/* Custom classes */
+.search-container {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.search-title {
+  margin-bottom: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.search-box {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+}
+
+.category-chip {
+  margin: 0.5rem 0.25rem;
+}
+
+.recent-search-item {
+  margin: 0.5rem 0;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.recent-search-item:hover {
+  color: #3366CC;
+}
+
+.featured-tutorials {
+  margin-top: 2rem;
+}
+
+.tutorial-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.tutorial-card-media {
+  height: 140px;
+}
+
+.tutorial-card-content {
+  flex-grow: 1;
+}
